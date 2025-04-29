@@ -116,4 +116,5 @@ or uvx
 
 ## AIGC prompt example
 
-![image](https://github.com/user-attachments/assets/659576fa-2431-4887-b0c9-9ccb5ad7f7d9)
+![image](https://github.com/user-attachments/assets/d8d10179-d198-4cb8-9e74-3e8c0a691c59)
+
